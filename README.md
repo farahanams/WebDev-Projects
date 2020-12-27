@@ -21,11 +21,12 @@ These are projects that I'm looking forward too. And if you want to suggest some
 
 These attempted projects are most probably will be here forever or move to the next folder.
 
-| Number | Name      | Language                  | Description     | Resources                | Duration | Finished date |
-| ------ | --------- | ------------------------- | --------------- | ------------------------ | -------- | ------------- |
-| 1      | To-do App | HTML + CSS                | Built to-do app | Dev-ed course            | not yet  |               |
-| 2      | Blog      | Node js, Express, MongoDB | Built a blog    | WebDevSimplified Youtube | not yet  |               |
-| 3      | Webpage   | HTML + CSS | A photography website     | Dev-Ed Course | not yet  |               |
+| Number | Name         | Language                  | Description           | Resources                      | Duration | Finished date |
+| ------ | ------------ | ------------------------- | --------------------- | ------------------------------ | -------- | ------------- |
+| 1      | To-do App    | HTML + CSS                | Built to-do app       | Dev-ed course                  | not yet  |               |
+| 2      | Blog         | Node js, Express, MongoDB | Built a blog          | WebDevSimplified Youtube       | not yet  |               |
+| 3      | Webpage      | HTML + CSS                | A photography website | Dev-Ed Course                  | not yet  |               |
+| 4      | Webpage blog | Gatsby + Contentful       | A try blog website    | Gatsby and Contentful tutorial | not yet  |               |
 
 ---
 
